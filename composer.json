@@ -1,0 +1,19 @@
+{
+  "name": "spqr/metadesc",
+  "version": "1.0.0",
+  "type": "pagekit-extension",
+  "title": "Metadesc",
+  "description": "Adds an old-fashioned meta-description to a pagekit-based website",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Lossin-Beßler",
+      "homepage": "https://spqr.wtf"
+    }
+  ],
+  "extra": {
+    "icon": "icon.svg"
+  },
+  "require": {
+  }
+}
