@@ -1,6 +1,6 @@
 {
   "name": "spqr/metadesc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "pagekit-extension",
   "title": "Metadesc",
   "description": "Adds an old-fashioned meta-description to a pagekit-based website",
