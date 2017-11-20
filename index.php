@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'name' => 'metadesc',
+    'name' => 'spqr/metadesc',
     
     'type' => 'extension',
     
